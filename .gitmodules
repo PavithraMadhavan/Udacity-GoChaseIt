@@ -1,0 +1,8 @@
+[submodule "ball_chaser"]
+	path = ball_chaser
+	url = https://github.com/PavithraMadhavan/ball_chaser.git
+	branch = master
+[submodule "my_robot"]
+	path = my_robot
+	url = https://github.com/PavithraMadhavan/my_robot.git
+	branch = master
